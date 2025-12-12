@@ -59,26 +59,27 @@ The trained model and vectorizer are persisted and reused for efficient predicti
 
 ## 📁 Project Structure
 
+```text
 Smart-Anti-Scam/
-│
 ├── Code/
-│ ├── api.py # Flask API for predictions
-│ ├── model.py # Model loading and prediction logic
-│ └── train_model.py # Optional model training script
+│   ├── api.py              # Flask API for predictions
+│   ├── model.py            # Model loading and prediction logic
+│   └── train_model.py      # Model training script
 │
 ├── Data/
-│ └── SMSSpamCollection.xlsx
+│   └── SMSSpamCollection.xlsx
 │
 ├── models/
-│ ├── sms_spam_model.pkl
-│ └── tfidf_vectorizer.pkl
+│   ├── sms_spam_model.pkl
+│   └── tfidf_vectorizer.pkl
 │
 ├── templates/
-│ └── index.html # Web interface
+│   └── index.html          # Web interface
 │
 ├── requirements.txt
-└── README.md
-
+├── README.md
+└── LICENSE
+```
 ---
 
 ## 🚀 Running the Project Locally

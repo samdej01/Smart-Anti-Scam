@@ -4,3 +4,4 @@ flask
 joblib
 openpyxl
 numpy
+gunicorn

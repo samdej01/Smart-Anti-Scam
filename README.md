@@ -19,7 +19,7 @@ This project is intended for academic and practical demonstration purposes in ap
 ## 🌐 Live Demo
 
 🔗 **Live Web Application:**  
-*(https://smart-anti-scam.onrender.com)*
+https://smart-anti-scam.onrender.com
 
 ---
 
@@ -129,7 +129,7 @@ Enter an SMS message
 
 Receive a real-time scam classification result
 
-
+---
 
 🎯 Key Features
 
@@ -151,7 +151,7 @@ Clear separation between ML logic and web layer
 
 Lightweight and deployment-ready structure
 
-
+---
 
 📌 Notes
 
